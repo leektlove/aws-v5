@@ -1,4 +1,4 @@
-name: aws-v5
+name: aws-v6
 on:
   push:
     branches:
